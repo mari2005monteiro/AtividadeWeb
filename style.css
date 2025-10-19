@@ -1,0 +1,19 @@
+/* Estilos mínimos apenas para leitura básica */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    margin-bottom: 15px;
+}
